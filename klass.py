@@ -44,3 +44,4 @@ class Opetaja():
     def opetab(self, teema, *opilased):
         for i in opilased:
             i.opib(teema)
+
